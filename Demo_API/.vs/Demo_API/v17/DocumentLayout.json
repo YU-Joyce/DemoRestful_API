@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio 2022\\Demo_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F91C646-40F9-4FC8-B62E-B2CDBC01CA4B}|Demo_API\\Demo_API.csproj|d:\\visual studio 2022\\demo_api\\demo_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F91C646-40F9-4FC8-B62E-B2CDBC01CA4B}|Demo_API\\Demo_API.csproj|solutionrelative:demo_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F91C646-40F9-4FC8-B62E-B2CDBC01CA4B}|Demo_API\\Demo_API.csproj|d:\\visual studio 2022\\demo_api\\demo_api\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F91C646-40F9-4FC8-B62E-B2CDBC01CA4B}|Demo_API\\Demo_API.csproj|solutionrelative:demo_api\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F91C646-40F9-4FC8-B62E-B2CDBC01CA4B}|Demo_API\\Demo_API.csproj|d:\\visual studio 2022\\demo_api\\demo_api\\models\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F91C646-40F9-4FC8-B62E-B2CDBC01CA4B}|Demo_API\\Demo_API.csproj|solutionrelative:demo_api\\models\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F91C646-40F9-4FC8-B62E-B2CDBC01CA4B}|Demo_API\\Demo_API.csproj|d:\\visual studio 2022\\demo_api\\demo_api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F91C646-40F9-4FC8-B62E-B2CDBC01CA4B}|Demo_API\\Demo_API.csproj|solutionrelative:demo_api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F91C646-40F9-4FC8-B62E-B2CDBC01CA4B}|Demo_API\\Demo_API.csproj|d:\\visual studio 2022\\demo_api\\demo_api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F91C646-40F9-4FC8-B62E-B2CDBC01CA4B}|Demo_API\\Demo_API.csproj|solutionrelative:demo_api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual Studio 2022\\Demo_API\\Demo_API\\Program.cs",
+              "RelativeDocumentMoniker": "Demo_API\\Program.cs",
+              "ToolTip": "D:\\Visual Studio 2022\\Demo_API\\Demo_API\\Program.cs",
+              "RelativeToolTip": "Demo_API\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBwAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T03:08:17.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Visual Studio 2022\\Demo_API\\Demo_API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Demo_API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Visual Studio 2022\\Demo_API\\Demo_API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Demo_API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T14:37:38.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Visual Studio 2022\\Demo_API\\Demo_API\\Models\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Demo_API\\Models\\EmployeeRepository.cs",
+              "ToolTip": "D:\\Visual Studio 2022\\Demo_API\\Demo_API\\Models\\EmployeeRepository.cs",
+              "RelativeToolTip": "Demo_API\\Models\\EmployeeRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAswD4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T14:27:13.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Visual Studio 2022\\Demo_API\\Demo_API\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Demo_API\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\Visual Studio 2022\\Demo_API\\Demo_API\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Demo_API\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T13:43:20.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Visual Studio 2022\\Demo_API\\Demo_API\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Demo_API\\Models\\Employee.cs",
+              "ToolTip": "D:\\Visual Studio 2022\\Demo_API\\Demo_API\\Models\\Employee.cs",
+              "RelativeToolTip": "Demo_API\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T13:39:31.111Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
